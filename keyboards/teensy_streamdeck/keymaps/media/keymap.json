@@ -1,0 +1,9 @@
+{
+    "keyboard": "teensy_streamdeck",
+    "layout": "LAYOUT",
+    "layers": [
+        [
+            "KC_F13", "KC_F14", "KC_VOLU", "KC_MNXT", "KC_VOLD", "KC_MPRV", "KC_MUTE", "KC_MPLY"
+        ]
+    ]
+}
